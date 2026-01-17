@@ -3,20 +3,7 @@ package Neotech_java_review_claas_05;
 public class Methods {
 	
 	 void printWelcomeFiveTimes() {
-		 for (int i = 1; i <= 5; i++) {
-			 System.out.print("Welcome |");
-			
-		}
-		 
-		 System.out.println();
-		
-	}
-
-	  void printWelcomeWithNumber(int n) {
-		for (int i = 1; i <= n; i++) {
-			 System.out.print("Welcome |");
-		}
-		System.out.println();
+		 for
 	}
 	 
 	  void printGreetingFiveTimes(String greeting) {
