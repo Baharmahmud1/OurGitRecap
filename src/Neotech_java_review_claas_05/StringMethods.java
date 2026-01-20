@@ -13,6 +13,9 @@ public class StringMethods {
 		System.out.println(  str.isEmpty());
 		System.out.println(  str.toLowerCase());
 		
+		
+		
+		
 		boolean equals=str.equals("PERSHENDTJE");
 		System.out.println(  "Equals--->" + equals);
 		System.out.println( "Equals ignore cases--? "+str.equalsIgnoreCase("PERSHENDTJE"));
