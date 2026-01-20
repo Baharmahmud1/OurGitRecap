@@ -2,13 +2,19 @@ package Neotech_java_review_claas_04;
 
 public class Student {
 
+	
+	
+	
 	int studentNr;
 	String name;
 	int gradeLevel;
 	
 	 void study() {
-		
-		 System.out.println(name + "with number " +studentNr + " is stuying");
+	
+		 
+		 
+		 
+		// System.out.println(name + "with number " +studentNr + " is stuying");
 		 
 	}
 	

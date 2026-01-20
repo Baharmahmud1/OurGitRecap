@@ -11,6 +11,11 @@ public class School {
 		student1.studentNr=46;
 		student1.gradeLevel=5;
 		
+		
+		
+		
+		
+		
 		Student student2=new Student();
 		student2.name="Trump";
 		student2.studentNr=47;
